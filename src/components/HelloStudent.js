@@ -6,7 +6,7 @@ const HelloStudent = props => {
             Hello
             { props.name },
             Welcome to TECHCareers and its React unit!
-            And current year : { props.year }.
+            And current year : { props.year }.Best Programing language : { props.unit }.
         </p>
     );
 }
